@@ -1,0 +1,6 @@
+{
+  "name": "Sistema ARM Smart Home",
+  "description": "Sistema Inteligente de Monitoramento Residencial com Arduino e Arquitetura ARM para fins acadêmicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
